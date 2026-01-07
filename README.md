@@ -1,0 +1,1 @@
+verziókezelés gyakorlásához készült teszt projekt
